@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(83, 231, 83);
+    margin:50px;
+    padding: 5px;
+    padding-left:500px;
+}
+form{
+    border:1px solid lightseagreen;
+    background-color:lightseagreen;
+    width:200px;
+    padding:50px;
+    padding-left:50px;
+}
+input[type="button"]{
+    background-color: green;
+    width: 175px;
+}
